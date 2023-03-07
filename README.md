@@ -1,3 +1,3 @@
 # Working with Raspberry pi 3 B+ and servo 
 
-Rotation of servo motor for Robotic Arm  
+Rotation of servo motor and movement of Gripper for Robotic Arm  
